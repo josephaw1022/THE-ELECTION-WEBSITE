@@ -1,0 +1,33 @@
+
+
+body{
+  font-family: "Arial Black";
+  background-color:#EE8068;}
+
+img.pic{
+  width: 268px;
+  height: 250px;}
+
+p {
+  color: pink;
+}
+h1 {
+  color: green;
+}
+
+h2 {
+  background-color: #6363da;
+  color: red;
+}
+
+h3 {
+  color: blue;
+}
+
+h4 {
+  color: purple;
+}
+
+h5 {
+  color: green;
+}

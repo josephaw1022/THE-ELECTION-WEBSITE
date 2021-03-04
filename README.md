@@ -1,4 +1,5 @@
 # College Web Dev Project
+## By Joseph Whiteaker 
 ### (made - Fall Semester 2020) 
 
 ## 2020 Congressional Elections in SC
